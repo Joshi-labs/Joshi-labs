@@ -1,42 +1,89 @@
 name: README build
+
 on:
   push:
     branches:
       - main
+
   schedule:
-    - cron: "0 4 * * *"
+    # Monday (4)
+    - cron: "0 0 * * 1"
+    - cron: "0 6 * * 1"
+    - cron: "0 12 * * 1"
+    - cron: "0 18 * * 1"
+
+    # Tuesday (7)
+    - cron: "0 0 * * 2"
+    - cron: "0 3 * * 2"
+    - cron: "0 6 * * 2"
+    - cron: "0 9 * * 2"
+    - cron: "0 12 * * 2"
+    - cron: "0 15 * * 2"
+    - cron: "0 18 * * 2"
+
+    # Wednesday (2)
+    - cron: "0 6 * * 3"
+    - cron: "0 18 * * 3"
+
+    # Thursday (5)
+    - cron: "0 0 * * 4"
+    - cron: "0 5 * * 4"
+    - cron: "0 10 * * 4"
+    - cron: "0 15 * * 4"
+    - cron: "0 20 * * 4"
+
+    # Friday (3)
+    - cron: "0 4 * * 5"
+    - cron: "0 12 * * 5"
+    - cron: "0 20 * * 5"
+
+    # Saturday (1)
+    - cron: "0 12 * * 6"
+
+    # Sunday (4)
+    - cron: "0 0 * * 0"
+    - cron: "0 6 * * 0"
+    - cron: "0 12 * * 0"
+    - cron: "0 18 * * 0"
+
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
-      - name: Get Python 3.8
+
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.8'
+          python-version: "3.8"
+
       - name: Configure pip cache
         uses: actions/cache@v4
         with:
           path: ~/.cache/pip
           key: ${{ runner.os }}-pip-${{ hashFiles('**/cache/requirements.txt') }}
-          restore-keys: ${{ runner.os }}-pip-
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
       - name: Install dependencies
         run: python -m pip install -r cache/requirements.txt
-      - name: Update README file
+
+      - name: Update README
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           USER_NAME: ${{ secrets.USER_NAME }}
         run: python today.py
-      - name: Commit
-        run: |-
+
+      - name: Commit changes
+        run: |
           git add .
-          git diff
           git config --global user.email "vishwashmax@gmail.com"
           git config --global user.name "Joshi-labs"
-          git commit -m "Updated README" -a || echo "No changes to commit"
+          git commit -m "Updated README" || echo "No changes to commit"
           git push
