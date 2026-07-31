@@ -21,9 +21,9 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://vpjoshi.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwash-joshi)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vishwashmax@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-181717?style=flat-square&logo=readthedocs&logoColor=white)](YOUR_RESUME_LINK)
+[![Resume](https://img.shields.io/badge/Resume-181717?style=flat-square&logo=readthedocs&logoColor=white)](https://vpjoshi.in/resume.pdf)
 
 <br>
 
