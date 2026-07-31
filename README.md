@@ -126,15 +126,9 @@ Real-time collaborative editor built on Apache Kafka and Operational Transformat
 ---
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Adityacprtm/Adityacprtm/output/github-contribution-grid-snake-dark.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Adityacprtm/Adityacprtm/output/github-contribution-grid-snake.svg">
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Adityacprtm/Adityacprtm/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="snake/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="snake/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="snake/github-contribution-grid-snake.svg">
 </picture>
 
 ---
