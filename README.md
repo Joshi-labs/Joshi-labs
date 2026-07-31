@@ -27,7 +27,7 @@
 
 <br>
 
-[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/)
+[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/5a4db644-385d-4e03-9669-4023102e2136/public_url)
 
 </div>
 
