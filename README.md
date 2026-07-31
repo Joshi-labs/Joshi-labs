@@ -1,3 +1,15 @@
+<a href="https://github.com/Joshi-labs/Joshi-labs">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Joshi-labs/Joshi-labs/main/dark_mode.svg">
+    <img
+      alt="Vishwash Joshi"
+      src="https://raw.githubusercontent.com/Joshi-labs/Joshi-labs/main/light_mode.svg">
+  </picture>
+</a>
+
+---
+
 <div align="center">
 
 # Vishwash Prasad Joshi
@@ -21,17 +33,7 @@
 
 ---
 
-<a href="https://github.com/Joshi-labs/Joshi-labs">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Joshi-labs/Joshi-labs/main/dark_mode.svg">
-    <img
-      alt="Vishwash Joshi"
-      src="https://raw.githubusercontent.com/Joshi-labs/Joshi-labs/main/light_mode.svg">
-  </picture>
-</a>
 
----
 
 ## About Me
 
