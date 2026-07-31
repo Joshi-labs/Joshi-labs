@@ -76,61 +76,48 @@ Alongside infrastructure engineering, I enjoy building distributed backend syste
 ---
 
 # Featured Projects
+## 🚨 ThreatLens — AI-Powered SOC Investigation Platform
 
-## 🚨 ThreatLens — AI Powered SOC Investigation Platform
+Cloud-native security investigation platform leveraging **RAG** and **LLMs** for real-time AWS threat analysis.
 
-Cloud-native security investigation platform that leverages Retrieval-Augmented Generation (RAG) to assist security analysts with incident investigation.
+**Tech:** AWS • Python • LangChain • ChromaDB • RAG
 
-**Highlights**
+- Event-driven AWS VPC Flow Log ingestion with S3 & EventBridge
+- Semantic + metadata-aware threat retrieval using ChromaDB
+- Agentic investigation workflow powered by LangChain
+- Simulated real-world attacks for end-to-end validation
 
-- Real-time AWS VPC Flow Log ingestion pipeline
-- AWS EventBridge & S3 event driven architecture
-- Semantic vector search using ChromaDB
-- Metadata-aware threat filtering
-- Agentic investigation workflow with LangChain
-- Simulated SSH brute-force, port scan and HTTP flood attacks
-- Live deployment
-
-**Stack**
-
-`AWS` `Python` `LangChain` `RAG` `ChromaDB`
+🔗 **Live:** https://threat-lens.vpjoshi.in
 
 ---
 
 ## ☁️ Orbit — Distributed Container Orchestrator
 
-A distributed container orchestration platform written in Go for scheduling workloads across multiple nodes.
+A lightweight distributed orchestration platform for scheduling workloads across multiple nodes.
 
-**Highlights**
+**Tech:** Go • Docker • BoltDB • REST API
 
-- Multi-node orchestration
-- REST API driven controller
-- Modular scheduling architecture
-- Persistent BoltDB storage
-- CLI & API documentation
-- Load balancing scheduler
+- Multi-node workload scheduling with modular architecture
+- Persistent state using BoltDB
+- REST APIs for cluster management
+- Comprehensive CLI & API documentation
 
-**Stack**
-
-`Go` `Docker` `BoltDB` `REST API`
+🔗 **Docs:** https://docs.vpjoshi.in/#/orbit
 
 ---
 
-## 📄 SyncDocs — Event-Driven Collaborative Editor
+## 📄 SyncDocs — Event-Driven Collaboration Platform
 
-A scalable collaborative document editor built around Apache Kafka and Operational Transformation.
+Real-time collaborative editor built on Apache Kafka and Operational Transformation.
 
-**Highlights**
+**Tech:** Kafka • Node.js • React • Socket.IO
 
-- Kafka event streaming
-- Operational Transformation (OT)
+- Kafka-powered event streaming architecture
+- Conflict-free collaborative editing using OT
 - Horizontally scalable WebSocket layer
-- Fault tolerant synchronization
-- Real-time collaborative editing
+- Reliable event ordering and replay
 
-**Stack**
-
-`Kafka` `Node.js` `React` `Socket.IO`
+🔗 **Live:** https://sync-docs.vpjoshi.in
 
 ---
 
