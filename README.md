@@ -37,7 +37,7 @@
 
 ## About Me
 
-I'm a Computer Science undergraduate focused on **DevOps, Cloud Infrastructure, Platform Engineering and Distributed Systems**.
+I'm a Computer Science undergraduate focused on **Fullstack, DevOps, Cloud Infrastructure, Platform Engineering and Distributed Systems**.
 
 I enjoy building production-ready systems using **AWS**, **Kubernetes**, **Terraform**, and **Linux**, while automating infrastructure through Infrastructure as Code and CI/CD pipelines.
 
