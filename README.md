@@ -14,7 +14,7 @@
 
 # Vishwash Prasad Joshi
 
-### DevOps • Cloud • Platform Engineering
+### Fullstack • DevOps • Cloud • Platform Engineering
 
 *Building reliable cloud infrastructure, automating operations, and engineering distributed systems.*
 
