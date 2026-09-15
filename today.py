@@ -333,7 +333,7 @@ def update_svg(filename,
     # -------------------------------------------------
 
     replace(root, "repo_data_dots", " .... ")
-    replace(root, "commit_data_dots", " .......... ")
+    replace(root, "commit_data_dots", " ........ ")
     replace(root, "loc_data_dots", ". ")
     replace(root, "loc_del_dots", " ")
 
