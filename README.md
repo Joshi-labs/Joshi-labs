@@ -14,9 +14,9 @@
 
 # Vishwash Prasad Joshi
 
-### DevOps • Cloud • Platform Engineering
+### AI/ML • Software Engineering • Cloud & DevOps
 
-*Building reliable cloud infrastructure, automating operations, and engineering distributed systems.*
+*Building intelligent systems, scalable applications, and reliable cloud infrastructure.*
 
 <br>
 
@@ -37,15 +37,31 @@
 
 ## About Me
 
-I'm a Computer Science undergraduate focused on **DevOps, Cloud Infrastructure, Platform Engineering and Distributed Systems**.
+I'm a Computer Science undergraduate with a balanced focus on **AI & Machine Learning**, **Software Development**, and **Cloud Infrastructure**.
 
-I enjoy building production-ready systems using **AWS**, **Kubernetes**, **Terraform**, and **Linux**, while automating infrastructure through Infrastructure as Code and CI/CD pipelines.
+I enjoy building intelligent applications using **LLMs** and **RAG**, while developing scalable full-stack distributed systems with **Go**, **Node.js**, and **React**.
 
-Alongside infrastructure engineering, I enjoy building distributed backend systems that explore real-world problems in orchestration, cloud security, event-driven architectures, and scalable APIs.
+To support these applications, I design and deploy robust production-ready cloud architectures using **AWS**, **Kubernetes**, and **Terraform**, automating operations through CI/CD pipelines.
 
 ---
 
 # Tech Stack
+
+### 🧠 AI & Machine Learning
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=chroma&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+
+### 🌐 Software Development
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 
 ### ☁️ Cloud & Infrastructure
 
