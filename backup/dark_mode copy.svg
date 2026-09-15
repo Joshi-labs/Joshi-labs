@@ -8,17 +8,15 @@ font-display: swap;
 -webkit-size-adjust: 109%;
 size-adjust: 109%;
 }
-.key {fill: #953800;}
-.value {fill: #0a3069;}
-.addColor {fill: #1a7f37;}
-.delColor {fill: #cf222e;}
-.cc {fill: #8c959f;}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-
-<rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-
-<text x="15" y="30" fill="#24292f" font-size="10px" xml:space="preserve">
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" font-size="10px" xml:space="preserve">
 <tspan x="15" y="30">                   +*%                                 </tspan>
 <tspan x="15" y="45">                   +=*##%%%%%%%%%%%%@                    </tspan>
 <tspan x="15" y="60">              :====*%*+***=***#%#*##%%@%%%%%             </tspan>
@@ -53,20 +51,19 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="495">%#=======---:-::::::::::======+**%@@@%##%@@@@@%@@+::+%@@@</tspan>
 <tspan x="15" y="510">======------:-::::::::::::---=======+*%%%%#@@@%%@@=:::=%@</tspan>
 </text>
-
-<text x="390" y="30" fill="#24292f">
+<text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">vishwash@joshi</tspan> -———————————————————————————————————————————-—-
 
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Intern at EPAM Systems</tspan>
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Open to DevOps / Cloud Roles</tspan>
 <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">B.Tech CSE (AI/ML)</tspan>
-<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Certification</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">AWS Certified Solutions Architect</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Shell</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">Bash, Zsh</tspan>
 
 <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Go, Python, JavaScript, C++</tspan>
-<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">AI/ML</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">PyTorch, LangChain, ChromaDB, RAG</tspan>
-<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">React, Node.js, Kafka, PostgreSQL</tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Cloud</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">AWS, Linux, Networking</tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Infra</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Terraform, Kubernetes, Docker</tspan>
-<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">CI/CD</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Git, GitHub Actions, Jenkins, Argo CD</tspan>
+<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Cloud</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">AWS, Linux, Networking</tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Infra</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Terraform, Kubernetes, Docker</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">CI/CD</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Git, GitHub Actions, Jenkins, Argo CD</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Automation</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Ansible, Shell, Python</tspan>
+<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Observability</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Prometheus, Grafana</tspan>
 
 <tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Fun</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Chess, Football, Movies</tspan>
 <tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Game Dev, Android Modding</tspan>

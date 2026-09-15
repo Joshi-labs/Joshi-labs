@@ -57,16 +57,16 @@ text, tspan {white-space: pre;}
 <text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">vishwash@joshi</tspan> -———————————————————————————————————————————-—-
 
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Intern at EPAM Systems</tspan>
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Open to DevOps / Cloud Roles</tspan>
 <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">B.Tech CSE (AI/ML)</tspan>
-<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Certification</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">AWS Certified Solutions Architect</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Shell</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">Bash, Zsh</tspan>
 
 <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Go, Python, JavaScript, C++</tspan>
-<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">AI/ML</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">PyTorch, LangChain, ChromaDB, RAG</tspan>
-<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">React, Node.js, Kafka, PostgreSQL</tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Cloud</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">AWS, Linux, Networking</tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Infra</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Terraform, Kubernetes, Docker</tspan>
-<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">CI/CD</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Git, GitHub Actions, Jenkins, Argo CD</tspan>
+<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Cloud</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">AWS, Linux, Networking</tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Infra</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Terraform, Kubernetes, Docker</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">CI/CD</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Git, GitHub Actions, Jenkins, Argo CD</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Automation</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Ansible, Shell, Python</tspan>
+<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Observability</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Prometheus, Grafana</tspan>
 
 <tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Fun</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Chess, Football, Movies</tspan>
 <tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Game Dev, Android Modding</tspan>
